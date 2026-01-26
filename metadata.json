@@ -1,0 +1,7 @@
+{
+  "name": "Hyundai Explorers Carnival 2026 Management System",
+  "description": "A comprehensive event management portal for the Hyundai Explorers Carnival 2026, featuring seamless registration, digital ticketing, gamified event journeys, and an admin oversight dashboard.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
